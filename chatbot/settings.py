@@ -25,7 +25,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 #LOCAL CONFIG 
 
-SECRET_KEY = 'xwrh7-h=isewrzxe(w1r6(nyywyc&g)%%r@tkhl#gri(mv2hw@'
+SECRET_KEY = 
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
